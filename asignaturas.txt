@@ -1,2 +1,5 @@
 1.Entornos de desarrollo
 2.Base de datos
+3.Lenguaje de marcas
+4.sistemas informaticos
+5.Programacion
